@@ -1,0 +1,4 @@
+﻿  ImagePlayer.cpp
+g:\uni\visualizer\audio\imageplayer.cpp(90): warning C4018: '<': signed/unsigned mismatch
+AudioFile.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Frequency Analyzer.vcxproj -> G:\Uni\Visualizer\.\Debug\Frequency Analyzer.exe
